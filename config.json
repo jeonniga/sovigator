@@ -1,0 +1,22 @@
+{
+    "setting" : {
+        "redis.host" : "127.0.0.1",
+        "redis.port" : "6379",
+        "maria.host" : "127.0.0.1",
+        "maria.port" : "3306",
+        "maria.id" : "root",
+        "maria.pw" : "dlawogus990328!@A",
+        "maria.dbname" : "test",
+        "maria.charset" : "utf8mb4",
+        "face_id" : "1986327611583702",
+        "face_secret" :"63a832d7bc7b249154273bfabed71c78",
+        "TW_CONSUMER_KEY" : "my3faDiZqgxeXnwJ5URBcfHPW",
+        "TW_CONSUMER_SECRET" : "orPOOiu76MkkVRiuGZpqdnxXOL7Opu1p0JnFJFkSXMh5KBCzpY",
+        "TW_ACCESS_TOKEN" : "929809559832559616-665xDVjAZ9uM9ReDDsnnzcaFMEnWSuW",
+        "TW_ACCESS_TOKEN_SECRET" : "HjqU9HslBI1qThqPa0fbd0E9xOpEa7fkHWF5pEu45XY1y",
+        "banner_img_path" : "C:/work/project/Sovigator/src/web/soviweb/public/images/",
+        "app_path" : "C:/work/project/Sovigator/src/",
+        "service_url" : "http://127.0.0.1:3000"
+        
+	}
+}

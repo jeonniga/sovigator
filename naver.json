@@ -1,0 +1,41 @@
+{
+    "bomunsan" : {
+        "keyword" : "보문산",
+        "type" : "place"
+	},
+
+    "kyejocksan" : {
+        "keyword" : "계족산",
+        "type" : "place"
+	},
+
+    "sickjangsan" : {
+        "keyword" : "구봉산",
+    	 "type" : "place"
+	},
+	
+    "kubongsan" : {
+        "keyword" : "식장산",
+		 "type" : "place"
+	},
+	
+	"exposceience" : {
+        "keyword" : "엑스포과학공원",
+		 "type" : "place"
+	},
+	
+	"jangtaesan" : {
+        "keyword" : "장태산",
+    	 "type" : "place"
+	},
+	
+	"daecheongho" : {
+        "keyword" : "대청호",
+		 "type" : "place"
+	},
+		
+	"youseongoncheon" : {
+        "keyword" : "유성온천",
+		 "type" : "place"
+	}
+}
